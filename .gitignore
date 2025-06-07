@@ -1,3 +1,6 @@
 .DS_Store
-*.ipynb_checkpoints/
+.venv
 datasets/
+__pycache__/
+*.ipynb_checkpoints/
+*.pyc
